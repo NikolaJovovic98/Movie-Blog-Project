@@ -1,0 +1,78 @@
+.slikaArticle{
+    padding-left: 5%;
+}
+.naslovArticle{
+    padding-top: 2%;
+    padding-left: 10%;
+    color: azure;
+    font-weight: bolder;
+}
+.sadrzajArticle{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 10%;
+    color: azure;
+    width: 45%;
+}
+.nazadArticle{
+    color: azure;
+    font-size: x-large;
+    font-weight: bold;
+}
+.nazadArticle:hover{
+    color: azure;
+}
+
+.article{
+    border: 1px solid #204a81;
+    background-color: rgba(32, 74, 129, 0.7);
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    width: 80%;
+    padding: 2%;
+    display: flex;
+  flex-direction:column;
+}
+
+.articleText{
+    display: flex;
+    flex-direction: row;
+}
+.komentar{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.dugme{
+    width: 100%;
+    padding: 1%;
+    color: azure;
+    background-color: #204a81;
+}
+
+.upozorenje{
+    
+    border: 2px solid azure;
+    border-radius: 25px;
+    margin-left:15%;
+    margin-right: 15%;
+    padding:2%;
+    background-color: rgba(32, 74, 129, 0.9);
+    color:azure;
+  
+}
+
+.komentar-text{
+    background-color: azure;
+    color: #204a81;
+    margin-left:15%;
+    margin-right: 15%;
+    margin-bottom:2%;
+    padding:1%;
+    border-radius: 25px;
+}
+.userrrr{
+    font-weight: bolder;
+}

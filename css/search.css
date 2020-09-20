@@ -1,0 +1,32 @@
+.slabel{
+    margin-left: 20%;
+    font-size: 16px;
+    padding-top: 2%;
+}
+.sinput{
+    margin-left: 20%;
+    width: 60%;
+    padding: 1%;
+    border: 1px solid #204a81;
+    border-radius: 25px;
+}
+.search{
+    margin-left: 20%;
+    width: 60%;
+    padding: 1%;
+    border: 1px solid #204a81;
+    border-radius: 25px;
+    background-color: #204a81;
+    color: azure;
+    margin-bottom: 5%;
+}
+.search:hover{
+   background-color: azure;
+    color: #204a81;
+}
+.wrapper{
+    background-color: azure;
+    margin-left: 18%;
+    width: 62%;
+    margin-bottom: 30%;
+}

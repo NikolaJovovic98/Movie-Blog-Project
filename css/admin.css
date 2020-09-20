@@ -1,0 +1,102 @@
+.container{
+    margin: 10%;
+}
+.tableh{
+   background: #999999;
+   font-weight: bold;
+}
+.btn{
+    border: 1px solid #e24d39;
+    background-color: #e24d39;
+    color: azure;
+    padding: 2%;
+    margin: 2%;
+}
+.btn:hover{
+    border: 1px solid #e24d39;
+    background-color: azure;
+    color: #e24d39;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    background-color: #737373;
+    color: azure;
+   
+    
+}
+
+.container-fluid{
+    background-color: #737373;
+   
+}
+.naslov{
+    padding-top: 3%;
+    padding-left: 2%;
+    font-size: 45px;
+}
+.sub{
+    padding: 2%;
+}
+.left{
+    display: inline-block;
+    color: azure;
+    width: 50%;
+}
+.right{
+
+    display: inline-block;
+    padding-left: 90%;
+    margin-bottom: 10px;
+   
+    
+}
+
+.item{
+    color: azure;
+}
+.boja{
+    color: azure;
+}
+.item:hover{
+    background-color: azure;
+    color: #204a81;
+
+}
+
+.item:active{
+    background-color: azure;
+    color: #204a81;
+    font-weight: bolder;
+}
+.item2{
+    background-color:  #737373;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 1%;
+    font-size: 16px;
+    color: azure;
+}
+.item2:hover{
+    background-color: azure;
+    color: #204a81;
+    text-decoration: none;
+    border: 1px solid #204a81 ;
+}
+
+.panell{
+    margin-left: 25%;
+}
+.jumbotron{
+    width: 50%;
+    margin-left: 25%;
+    border:1px solid #737373;
+    margin-top: 2%;
+    padding: 3%;
+}
+.save-btn{
+    background-color: rgb(54, 235, 54);
+}

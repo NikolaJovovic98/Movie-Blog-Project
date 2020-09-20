@@ -1,0 +1,83 @@
+
+   .main-wrapper-singup{
+   
+    
+    width: 20%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    box-shadow: 1px 5px 5px #888888;
+    background-color: azure;
+   margin-bottom: 35%;
+
+}
+
+.main-wrapper-singup input{
+
+ margin: 10px;
+
+}
+
+.main-wrapper-singup button{
+
+    margin-top: 15px;
+   
+   }
+
+   .error-message {
+
+       color: red;
+       margin:0;
+       display: none;
+
+
+   }
+
+   .p-error-register {
+
+     color: white;
+     margin:0 auto;
+     margin-bottom:10px;
+     padding:5px;
+     background-color:red;
+     border-radius:10px;
+     width:60%;
+     box-shadow: 1px 3px 3px #888888;
+
+   }
+
+   .p-error-login {
+
+    color: white;
+    margin:0 auto;
+    margin-bottom:10px;
+    padding:5px;
+    background-color:red;
+    border-radius:10px;
+    width:60%;
+    box-shadow: 1px 3px 3px #888888;
+     
+ 
+
+   }
+  
+   .p-success-login{
+
+     color: white;
+     margin:0 auto;
+     text-align: center;
+     padding:5px;
+     background-color:green;
+     border-radius:10px;
+     width:8%;
+     box-shadow: 1px 3px 3px #888888;
+     position: absolute;
+     left: 52em;
+
+   }
+
