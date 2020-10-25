@@ -1,4 +1,5 @@
 # Movie-Blog-Project
+(Procedural PHP)
 Basic movie blog project with user registration,login,logout,commenting,and
 admin panel.Everything is done with procedural php.In this project you have basic movie blog site where a user can register and then
 login and logout.If the user is registered or logged in he can leave comments on posts,movies,tv 
